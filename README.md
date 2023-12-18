@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, there!
 
 <!--
 **eeee386/eeee386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like to learn new stuff especially about software. Frontend dev, for 5 years specialized in React and adjacent technologies.
